@@ -14,6 +14,7 @@ This project aimed to develop a solution using machine learning techniques that 
 
 **Phase 1**
 In the data creation phase, a MANET network would be simulated using the NS3 simulator, incorporating the AODV routing protocol. The simulation would also include a small number of black hole nodes. Finally, the simulation would generate output files comprising various network metrics, AODV messaging, and data flow between the nodes.
+
 **Phase 2**
 In the data preparation phase, a script would be developed to process the simulation files and convert them into a dataset that could be used to train a machine learning classifier. This would involve identifying and extracting various relevant features that could be used to detect the behaviour of black hole nodes.
 
