@@ -2,7 +2,7 @@
 
 The repository contains our final submission for our capstone project which was completed in May 2023.
 
-### Introduction and Description of the Project
+## Introduction and Description of the Project
 
 A Mobile Ad Hoc Network (MANET) is a type of wireless network where several devices, such as radios, smartphones, laptops, cars, drones, or sensors, communicate directly without needing any pre-existing or centralized infrastructure. MANETs are self-configuring and self-maintained by their nodes, making them ideal for situations where existing network infrastructure is damaged, unavailable, or not possible such as in disaster-stricken areas, military operations, or remote regions.
 For example, in a region recently devastated by an earthquake, communication infrastructure such as mobile networks may be severely damaged. In such an event, rescue and emergency services could rapidly set up a MANET to quickly establish a wireless network among their devices to exchange vital information and communications. Likewise, in military operations where fixed network infrastructure is unavailable, MANETs can enable military personnel and unmanned devices to communicate and share tactical information in real-time using wireless devices.
@@ -21,7 +21,7 @@ In the data preparation phase, a script would be developed to process the simula
 **Phase 3:**
 The machine learning (ML) phase would develop a machine learning process using the dataset generated in stage 2 as input to train ML classifiers to detect which neighbour nodes were black hole nodes.
 
-### Summary of Outcomes
+## Summary of Outcomes
 
 **Phase 1 - data creation phase:** A NS3 simulator was used to simulate MANET networks using the AODV protocol. Three scripts were developed in C+ to simulate the interaction of all nodes in the MANET. Black hole nodes were also introduced into the network. The NS3 scripts used were able to produce simulations of standard AODV networks. However, due to the complexity of the process, the tracing configured in the script was not producing complete logs in the AODV with black hole node simulations. This made manually altering the messaging logs necessary to enable proof of concept work on training the ML models. Thus it cannot be said that we produced succesful blackhole simulations of the full network. Despite these difficulties, the standard AODV scripts output and toy Blackhole examples produced good output that could still be used for the project's next phases.
 
