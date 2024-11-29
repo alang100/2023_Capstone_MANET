@@ -2,7 +2,7 @@
 
 The repository contains our final submission for our capstone project which was completed in May 2023.
 
-I was project lead and responsible for the coding and development of Phase 2 and Phase 3 of the project. The final project outcome was a High Distinction for all individuals in the team.
+I was project lead and responsible for the coding and development of Phase 2 and Phase 3 of the project. The final project outcome was a High Distinction for all team members.
 
 ## Introduction and Description of the Project
 
