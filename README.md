@@ -2,6 +2,8 @@
 
 The repository contains our final submission for our capstone project which was completed in May 2023.
 
+I was project lead and responsible for the coding and development of Phase 2 and Phase 3 of the project. The final project outcome was a High Distinction for all individuals in the team.
+
 ## Introduction and Description of the Project
 
 A Mobile Ad Hoc Network (MANET) is a type of wireless network where several devices, such as radios, smartphones, laptops, cars, drones, or sensors, communicate directly without needing any pre-existing or centralized infrastructure. MANETs are self-configuring and self-maintained by their nodes, making them ideal for situations where existing network infrastructure is damaged, unavailable, or not possible such as in disaster-stricken areas, military operations, or remote regions.
