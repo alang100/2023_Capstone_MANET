@@ -20,3 +20,15 @@ In the data preparation phase, a script would be developed to process the simula
 
 **Phase 3:**
 The machine learning (ML) phase would develop a machine learning process using the dataset generated in stage 2 as input to train ML classifiers to detect which neighbour nodes were black hole nodes.
+
+### Summary of Outcomes
+
+**Phase 1 - data creation phase:** A NS3 simulator was used to simulate MANET networks using the AODV protocol. Three scripts were developed in C+ to simulate the interaction of all nodes in the MANET. Black hole nodes were also introduced into the network. The NS3 scripts used were able to produce simulations of standard AODV networks. However, due to the complexity of the process, the tracing configured in the script was not producing complete logs in the AODV with black hole node simulations. This made manually altering the messaging logs necessary to enable proof of concept work on training the ML models. Thus it cannot be said that we produced succesful blackhole simulations of the full network. Despite these difficulties, the standard AODV scripts output and toy Blackhole examples produced good output that could still be used for the project's next phases.
+
+**Phase 2 - data preparation phase:** The literature review identified the key behavioural characteristics of black hole nodes in AODV networks. From this, a complex program was developed that would read the AODV protocol messaging between nodes from the trace files produced in the previous phase. The script would then extract key features from the messaging from which a dataset was created that could be used in the machine learning process. This phase was successful, and datasets could be produced from the trace files.
+Due to the issues discussed above, some values of the feature set of the black hole nodes were manually altered in the training set to accurately portray the behavioural characteristics of a black hole node. With this step, the project could continue.
+
+**Phase 3 - machine learning phase:** A machine learning script was developed to detect black hole nodes within the network. The datasets created by the data conversion script developed in the Data Preparation Stage were used as the input. The variables with the highest correlation to the target variable were determined and they were filtered into the final dataset for model training. Two binary classification models were developed, a random forest classifier and a support vector machine classifier. Both models could classify with 100% accuracy which nodes were black hole nodes.
+
+More work must be done to get the NS-3 simulator to accurately simulate AODV networks and black hole nodes. Afterwards, more training and testing of the models is required. The opportunities for future development section mentions what steps should be carried out next. However, with all the hard work put into this project, the project's final phase was successfully completed. The results demonstrate that machine learning can successfully be applied to AODV networks to detect black hole nodes accurately.
+
