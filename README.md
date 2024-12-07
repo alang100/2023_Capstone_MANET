@@ -1,8 +1,16 @@
 # 2023_Capstone_MANET
 
-The repository contains our final submission for our capstone project which was completed in May 2023.
+This repository contains our final submission for our capstone project which was completed in May 2023.
 
-I was project lead and responsible for the coding and development of Phase 2 and Phase 3 of the project. The final project outcome was a High Distinction for all team members.
+I was project lead and responsible for the coding and development of Phase 2 and Phase 3 of the project. The final project outcome was a High Distinction for all team members. A big thank you to all my team members for working so hard on this project and making it a success.
+
+This page outlines the introduction ad summary of outcomes for this project. All files for the project can be found in the appropriate folders in this repository. For more details on the project including the final report and the code I developed for Phase 2 and Phase 3, refer to the following links:
+
+- [Data Preparation and Machine Learning Scripts: AODV to Dataset](Data%20Preparation%20and%20Machine%20Learning%20Scripts/AODV_to_Dataset.html)
+- [Machine Learning for Malicious Node Detection](ML_for_Malicious_Node_Detection.html/ML_for_Malicious_Node_Detection.html)
+- [Final Report](Reports/Grp-11522-23-16%20Final%20Report.pdf)
+- [Project Closure Report](Reports/Grp-11522-23-16%20Project%20Closure%20Report.pdf)
+
 
 ## Introduction and Description of the Project
 
