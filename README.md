@@ -10,6 +10,7 @@ This page outlines the introduction and a summary of the project outcomes. All p
 - [Data Preparation and Machine Learning Scripts: AODV to Dataset](Data%20Preparation%20and%20Machine%20Learning%20Scripts/AODV_to_Dataset.html)
 - [Machine Learning for Malicious Node Detection](ML_for_Malicious_Node_Detection.html/ML_for_Malicious_Node_Detection.html)
 
+---
 
 ## Introduction and Description of the Project
 
@@ -35,6 +36,8 @@ In the data preparation phase, a script would be developed to process the simula
 
 **Phase 3:**
 The machine learning (ML) phase would develop a machine learning process using the dataset generated in stage 2 as input to train ML classifiers to detect which neighbour nodes were black hole nodes.
+
+---
 
 ## Summary of Outcomes
 
