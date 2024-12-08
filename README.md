@@ -1,8 +1,8 @@
-# 2023_Capstone_MANET
+# 2023 Capstone: Detection of Black Hole Cyber Attacks in MANET Wireless Networks
 
 This repository contains the final submission for our capstone project, completed in May 2023.
 
-As the project lead, I was responsible for overseeing the entire project, including project and team management, coordinating with stakeholders, and also developing Phase 2 and Phase 3. Thanks to the dedication and hard work of my team, this project was a resounding success, earning a High Distinction for all team members.
+As the project lead, I took charge of overseeing the entire project, ensuring smooth project execution and team collaboration, managing stakeholder engagement, and also developing Phase 2 and Phase 3. Through effective leadership and the collective effort of my team, this project achieved resounding success, culminating in a High Distinction for all team members.
 
 This page outlines the introduction and a summary of the project outcomes. All project files are organized into the appropriate folders within this repository. For more detailed information, including the final report and the code I developed for Phase 2 and Phase 3, please refer to the links below:
 
