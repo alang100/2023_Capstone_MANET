@@ -8,7 +8,7 @@ As the project lead, I oversaw the entire project, ensuring smooth project execu
 
 This page outlines the introduction and a summary of the project outcomes. All project files are organized into the appropriate folders within this repository. For more detailed information, including the project proposal plan, the final report and the code I developed for Phase 2 and Phase 3, please refer to the links below:
 
-- [Project Proposal Plan](Group%2011522-23-16%20-%20Project%20Proposal%20and%20Plan.pdf)
+- [Project Proposal Plan](Reports/Group%2011522-23-16%20-%20Project%20Proposal%20and%20Plan.pdf)
 - [Final Report](Reports/Grp-11522-23-16%20Final%20Report.pdf)
 - [Data Preparation and Machine Learning Scripts: AODV to Dataset](Data%20Preparation%20and%20Machine%20Learning%20Scripts/AODV_to_Dataset.html)
 - [Machine Learning for Malicious Node Detection](ML_for_Malicious_Node_Detection.html/ML_for_Malicious_Node_Detection.html)
