@@ -2,12 +2,13 @@
 
 This repository contains the final submission for our capstone project, completed in May 2023.
 
-This capstone project is about using machine learning techniques to detect black hole attacks cyber attacks in Mobile Ad Hoc (wireless) Networks (MANETs) utilizing the AODV protocol. Through network simulation, data preparation, and the development of machine learning models, the project was successfully able malicious nodes, demonstrating the potential of ML in enhancing MANET security. Aside from the technical work, the project management, 
+This capstone project's focus is on using machine learning techniques to detect black hole attacks cyber-attacks in Mobile Ad Hoc (wireless) Networks (MANETs) utilizing the AODV protocol. Through network simulation, data preparation, and the development of machine learning models, the project was successfully able malicious nodes, demonstrating the potential of ML in enhancing MANET security. Equally important to the project's success were project management, stakeholder liaison, the final report, and the presentation.
 
-As the project lead, I took charge of overseeing the entire project, ensuring smooth project execution and team collaboration, managing stakeholder engagement, and also developing Phase 2 and Phase 3. Through effective leadership and the collective effort of my team, this project achieved resounding success, culminating in a High Distinction for all team members.
+As the project lead, I oversaw the entire project, ensuring smooth project execution and team collaboration, managing stakeholder engagement, and personally developing Phase 2 and Phase 3. Through effective leadership and the collective effort of my team, this project was very successful, culminating in a High Distinction for all team members.
 
-This page outlines the introduction and a summary of the project outcomes. All project files are organized into the appropriate folders within this repository. For more detailed information, including the final report and the code I developed for Phase 2 and Phase 3, please refer to the links below:
+This page outlines the introduction and a summary of the project outcomes. All project files are organized into the appropriate folders within this repository. For more detailed information, including the project proposal plan, the final report and the code I developed for Phase 2 and Phase 3, please refer to the links below:
 
+- [Project Proposal Plan](Group%2011522-23-16%20-%20Project%20Proposal%20and%20Plan.pdf)
 - [Final Report](Reports/Grp-11522-23-16%20Final%20Report.pdf)
 - [Data Preparation and Machine Learning Scripts: AODV to Dataset](Data%20Preparation%20and%20Machine%20Learning%20Scripts/AODV_to_Dataset.html)
 - [Machine Learning for Malicious Node Detection](ML_for_Malicious_Node_Detection.html/ML_for_Malicious_Node_Detection.html)
