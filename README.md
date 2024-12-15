@@ -34,7 +34,9 @@ However, protocols like AODV are vulnerable to various types of cyber-security t
 <br/>
 
 Figure 1 shows a diagram of a MANET where the source node S sends a route request to the destination node D. The malicious node A replies with a fake route response message, claiming to have the shortest route to node D. Node S would then establish a route to node D through node A, but the packets would be dropped by node A instead of being forwarded to the destination.
-This project aimed to develop a solution using machine learning techniques that could detect black hole intruders in a MANET utilizing the AODV protocol. The project consisted of three major phases.
+This project aimed to develop a solution using machine learning techniques that could detect black hole intruders in a MANET utilizing the AODV protocol. 
+
+The project consisted of three major phases.
 
 **Phase 1:**
 In the data creation phase, a MANET network would be simulated using the NS3 simulator, incorporating the AODV routing protocol. The simulation would also include a small number of black hole nodes. Finally, the simulation would generate output files comprising various network metrics, AODV messaging, and data flow between the nodes.
