@@ -15,6 +15,7 @@ This page outlines the introduction and a summary of the project outcomes. All p
 - [Code for AODV Protocol Messaging to Dataset Conversion - HTML](Data%20Preparation%20and%20Machine%20Learning%20Scripts/AODV_to_Dataset.html)
 - [Code for Machine Learning for Malicious Node Detection - HTML](Data%20Preparation%20and%20Machine%20Learning%20Scripts//ML_for_Malicious_Node_Detection.html)
 
+*Note: To download a file, click the link and then use the download button on the top right of the GitHub interface.*
 ---
 
 ## Introduction and Description of the Project
